@@ -4,5 +4,7 @@ In this application, users can search for games by name after signing up, naviga
 
 
 
-https://github.com/user-attachments/assets/d0769d06-f8d0-4a66-bcd1-88cc8b1f3886
+
+
+https://github.com/user-attachments/assets/36a86a14-2283-444d-9d9b-6425337de1a7
 
