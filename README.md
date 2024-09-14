@@ -1,16 +1,8 @@
-# gamemmedia
+# gamemedia🎮
 
-A new Flutter project.
+In this application, users can search for games by name after signing up, navigate to the game page, rate the game, and add it to their wishlist or favorites. They can also search for other users within the app, follow them, and see their reviews appear in their feed. The games are fetched from the RAWG Database.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/d0769d06-f8d0-4a66-bcd1-88cc8b1f3886
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
