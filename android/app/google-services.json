@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094375426945",
+    "project_id": "media-f2022",
+    "storage_bucket": "media-f2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094375426945:android:029b8180e3a86b686ef680",
+        "android_client_info": {
+          "package_name": "com.example.gamemmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAraj_lxm0HGTnLOboj8BvdnsJcic9EV6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
